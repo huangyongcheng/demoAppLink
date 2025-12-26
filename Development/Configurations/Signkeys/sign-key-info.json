@@ -1,0 +1,72 @@
+{
+  "cisboxConfig": {
+    "keyAlias": "Cisbox",
+    "keyPassword": "cisbox@1234",
+    "storePassword": "cisbox@1234"
+  },
+  "allinvosConfig": {
+    "keyAlias": "allinvos",
+    "keyPassword": "allinvos@1234",
+    "storePassword": "allinvos@1234"
+  },
+  "echtConfig": {
+    "keyAlias": "ECHT",
+    "keyPassword": "echt@1234",
+    "storePassword": "echt@1234"
+  },
+  "hgkConfig": {
+    "keyAlias": "HGK",
+    "keyPassword": "hgk@1234",
+    "storePassword": "hgk@1234"
+  },
+  "hogastConfig": {
+    "keyAlias": "Hogast",
+    "keyPassword": "hogast@1234",
+    "storePassword": "hogast@1234"
+  },
+  "hogastDevConfig": {
+    "keyAlias": "Hogast",
+    "keyPassword": "hogast@1234",
+    "storePassword": "hogast@1234"
+  },
+  "hogastATConfig": {
+    "keyAlias": "Hogast",
+    "keyPassword": "hogast@1234",
+    "storePassword": "hogast@1234"
+  },
+  "hogastATDevConfig": {
+    "keyAlias": "Hogast",
+    "keyPassword": "hogast@1234",
+    "storePassword": "hogast@1234"
+  },
+  "horegoConfig": {
+    "keyAlias": "HOREGO",
+    "keyPassword": "horego@1234",
+    "storePassword": "horego@1234"
+  },
+  "pegConfig": {
+    "keyAlias": "PEG",
+    "keyPassword": "peg@1234",
+    "storePassword": "peg@1234"
+  },
+  "progrosConfig": {
+    "keyAlias": "progros",
+    "keyPassword": "progros@1234",
+    "storePassword": "progros@1234"
+  },
+  "rbtConfig": {
+    "keyAlias": "RBT",
+    "keyPassword": "rbt@1234",
+    "storePassword": "rbt@1234"
+  },
+  "roedlConfig": {
+    "keyAlias": "RODL",
+    "keyPassword": "rodl@1234",
+    "storePassword": "rodl@1234"
+  },
+  "felixConfig": {
+    "keyAlias": "felix",
+    "keyPassword": "felix@1234",
+    "storePassword": "felix@1234"
+  }
+}

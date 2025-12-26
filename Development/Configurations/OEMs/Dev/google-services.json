@@ -1,0 +1,258 @@
+{
+  "project_info": {
+    "project_number": "1087188743727",
+    "firebase_url": "https://test-analytics-aa692.firebaseio.com",
+    "project_id": "test-analytics-aa692",
+    "storage_bucket": "test-analytics-aa692.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188743727:android:18cae04f1744f9f4d838da",
+        "android_client_info": {
+          "package_name": "at.invoicecomplete.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK58bHEKa3W4F1HsXNjRfPlsRBL5gPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188743727:android:80d5410e1d1393efd838da",
+        "android_client_info": {
+          "package_name": "ch.horegoinvoice.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK58bHEKa3W4F1HsXNjRfPlsRBL5gPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188743727:android:42208c373acdeba7d838da",
+        "android_client_info": {
+          "package_name": "ch.rbtportal.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK58bHEKa3W4F1HsXNjRfPlsRBL5gPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188743727:android:7fde38b1b1605081d838da",
+        "android_client_info": {
+          "package_name": "com.allinvosinvoice.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK58bHEKa3W4F1HsXNjRfPlsRBL5gPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188743727:android:7943e55206b6cab6d838da",
+        "android_client_info": {
+          "package_name": "com.cisbox.invoice.app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK58bHEKa3W4F1HsXNjRfPlsRBL5gPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188743727:android:f3af8fee9350a904d838da",
+        "android_client_info": {
+          "package_name": "com.cisbox.invoice.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK58bHEKa3W4F1HsXNjRfPlsRBL5gPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188743727:android:6c61ec6f108cb9a0d838da",
+        "android_client_info": {
+          "package_name": "com.progrosportal.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK58bHEKa3W4F1HsXNjRfPlsRBL5gPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188743727:android:844c3d1ff21e52ebd838da",
+        "android_client_info": {
+          "package_name": "com.smartenvoice.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK58bHEKa3W4F1HsXNjRfPlsRBL5gPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188743727:android:bb42550adf24b541d838da",
+        "android_client_info": {
+          "package_name": "de.echtbackoffice.invoice.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK58bHEKa3W4F1HsXNjRfPlsRBL5gPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188743727:android:f8b378e2f1f37ffdd838da",
+        "android_client_info": {
+          "package_name": "de.felixinvoice.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK58bHEKa3W4F1HsXNjRfPlsRBL5gPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188743727:android:af88f2c8e57cc102d838da",
+        "android_client_info": {
+          "package_name": "de.hgkbackoffice.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK58bHEKa3W4F1HsXNjRfPlsRBL5gPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188743727:android:2e6a5bc7579d068ed838da",
+        "android_client_info": {
+          "package_name": "de.invoicecomplete.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK58bHEKa3W4F1HsXNjRfPlsRBL5gPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188743727:android:ba22650d1fd4bd37d838da",
+        "android_client_info": {
+          "package_name": "de.mainkarl.invoice.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK58bHEKa3W4F1HsXNjRfPlsRBL5gPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
